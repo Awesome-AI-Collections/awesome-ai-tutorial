@@ -4,7 +4,7 @@
 
 ## 推荐
 
-- 暂无精选条目
+- [LLM Wiki (Karpathy idea)](items/llm-wiki-pattern.md) - Karpathy 写的 LLM Wiki 方法说明，系统阐述如何让 LLM 维护一个持续生长、可交叉引用的个人或团队 wiki，而不是每次临时做 RAG 检索。
 
 ## 从哪里开始
 
@@ -13,14 +13,18 @@
 
 ## 分类浏览
 
-- 暂无条目
+### Agents
+
+聚焦 agent 概念、工作流、搭建方式和实际使用教程。
+
+- [karpathy-llm-wiki](items/karpathy-llm-wiki.md) - 一个把 Karpathy 的 LLM Wiki 思路做成可安装 agent skill 的教程型项目，演示如何让 Claude Code、Cursor、Codex 等工具逐步构建和维护自己的知识 wiki。
+- [LLM Wiki (Karpathy idea)](items/llm-wiki-pattern.md) - Karpathy 写的 LLM Wiki 方法说明，系统阐述如何让 LLM 维护一个持续生长、可交叉引用的个人或团队 wiki，而不是每次临时做 RAG 检索。
 
 ## 后续补充方向
 
 - `Getting Started`: 适合完全新手，从基础概念、入门步骤和第一套可操作流程开始。
 - `Learning Paths`: 适合已经入门，想系统化安排学习顺序和阶段目标的人。
 - `Prompting`: 聚焦提示词方法、提示设计思路和高频实战技巧。
-- `Agents`: 聚焦 agent 概念、工作流、搭建方式和实际使用教程。
 - `Coding with AI`: 聚焦如何把 AI 用进写代码、调试、评审和工程协作。
 - `No-Code / Automation`: 聚焦无需写太多代码的自动化、工作流和工具串联。
 - `Image / Video / Audio`: 聚焦图像、视频、音频生成与处理相关教程。
