@@ -1,11 +1,8 @@
 ---
 title: "LLM Wiki (Karpathy idea)"
-slug: "llm-wiki-pattern"
-info_type: "awesome-ai-tutorial"
 entity_type: "tool"
 category: "Agents"
-featured: true
-last_reviewed_at: "2026-04-11T02:58:36+00:00"
+last_reviewed_at: "2026-04-11"
 ---
 
 # LLM Wiki (Karpathy idea)

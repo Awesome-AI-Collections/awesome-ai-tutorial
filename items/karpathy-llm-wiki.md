@@ -1,11 +1,8 @@
 ---
 title: "karpathy-llm-wiki"
-slug: "karpathy-llm-wiki"
-info_type: "awesome-ai-tutorial"
 entity_type: "tool"
 category: "Agents"
-featured: false
-last_reviewed_at: "2026-04-11T02:58:36+00:00"
+last_reviewed_at: "2026-04-11"
 ---
 
 # karpathy-llm-wiki

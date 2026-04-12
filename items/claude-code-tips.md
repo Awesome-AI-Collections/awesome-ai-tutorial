@@ -1,11 +1,8 @@
 ---
 title: "Claude Code Tips"
-slug: "claude-code-tips"
-info_type: "awesome-ai-tutorial"
 entity_type: "tool"
 category: "Coding with AI"
-featured: false
-last_reviewed_at: "2026-04-13T00:00:00+00:00"
+last_reviewed_at: "2026-04-13"
 ---
 
 # Claude Code Tips
